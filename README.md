@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Rathod</h1>
 <h3 align="center">Long story short I am just thriving hard every day to learn everything about Data Science. I love statistics, algebra, knowing about technology and its underlying building blocks.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh1307&label=Profile%20views&color=0e75b6&style=flat" alt="umesh1307" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umesh1307" alt="umesh1307" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/umeshra66568876" target="blank"><img src="https://img.shields.io/twitter/follow/umeshra66568876?logo=twitter&style=for-the-badge" alt="umeshra66568876" /></a> </p>
 
 - 🔭 I’m currently working on **Appliance-Energy-Prediction**
 
