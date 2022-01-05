@@ -1,4 +1,4 @@
-(p align="left")(img src="https://komarev.com/ghpvc/?username=Umesh1307&label=Profile+views&color=129e00&style=plastic" alt="Umesh1307" /)(/p)
+<img src="https://komarev.com/ghpvc/?username=Umesh1307&label=Profile+views&color=129e00&style=plastic">
 <h1 align="center">Hi 👋, I'm Umesh Rathod</h1>
 <h3 align="center">Long story short I am just thriving hard every day to learn everything about Data Science. I love statistics, algebra, knowing about technology and its underlying building blocks.</h3>
 
