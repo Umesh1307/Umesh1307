@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Umesh Rathod</h1>
 <h3 align="center">Long story short I am just thriving hard every day to learn everything about Data Science. I love statistics, algebra, knowing about technology and its underlying building blocks.</h3>
 
+![image jpeg (2)](https://user-images.githubusercontent.com/75175373/152381342-d3b91050-99f7-4b73-af28-fe90e518c6de.png)
+
 
 
 - 🔭 I’m currently working on **Email Campaign Effectiveness Prediction (Multiclass Classification)**
