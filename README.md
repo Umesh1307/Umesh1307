@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Appliance-Energy-Prediction**
+- 🔭 I’m currently working on **Email Campaign Effectiveness Prediction (Multiclass Classification)**
 
 - 📫 How to reach me **umesh.rathod1307@gmail.com**
 
