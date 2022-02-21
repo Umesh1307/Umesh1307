@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Email Campaign Effectiveness Prediction (Multiclass Classification)**
+- 🔭 I’m currently working on **Book Recommendation System**
 
 
 
