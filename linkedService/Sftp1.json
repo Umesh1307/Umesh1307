@@ -1,0 +1,16 @@
+{
+	"name": "Sftp1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "Sftp",
+		"typeProperties": {
+			"host": "ftp.usa.hp.com",
+			"port": "2222",
+			"skipHostKeyValidation": true,
+			"authenticationType": "Basic",
+			"userName": "canontnt",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDJDODAzODQ2LUZEQkItNDhGNi05M0QyLUU4Q0M1MDg4M0QxN19jZjAyMDg4Zi04NDk1LTQxOTQtODA3ZC1kNDg0OTY3Mjk5ZjAiDQp9"
+		}
+	}
+}

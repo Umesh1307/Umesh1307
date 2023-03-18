@@ -1,0 +1,9 @@
+{
+	"name": "hprc-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b97fa521-9de0-4a5e-a911-1f52bbd4ccfa",
+		"tenantId": "5b8e6011-bc3f-48b8-8995-5be2759533c6"
+	}
+}
