@@ -1,5 +1,5 @@
 {
-	"name": "canon_destination_binary",
+	"name": "CANON_DESTINATION",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",

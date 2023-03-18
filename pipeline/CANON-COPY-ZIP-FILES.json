@@ -20,7 +20,6 @@
 						"storeSettings": {
 							"type": "SftpReadSettings",
 							"recursive": true,
-							"deleteFilesAfterCompletion": false,
 							"disableChunking": false
 						},
 						"formatSettings": {
@@ -46,7 +45,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "canon_destination_binary",
+						"referenceName": "CANON_DESTINATION",
 						"type": "DatasetReference"
 					}
 				]
