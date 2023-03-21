@@ -20,6 +20,7 @@
 						"storeSettings": {
 							"type": "SftpReadSettings",
 							"recursive": true,
+							"deleteFilesAfterCompletion": false,
 							"disableChunking": false
 						},
 						"formatSettings": {

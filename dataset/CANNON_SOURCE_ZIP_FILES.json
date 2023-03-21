@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "SftpLocation",
-				"fileName": "CANON_ZIP_FILES.zip",
-				"folderPath": "/CANON/PROD/input"
+				"fileName": "serialization-data-cvn-for-hp_20230219-20230305.zip",
+				"folderPath": "/CANON/DEV"
 			},
 			"compression": {
 				"type": "ZipDeflate",
