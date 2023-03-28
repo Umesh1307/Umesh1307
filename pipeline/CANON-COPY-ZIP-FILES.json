@@ -20,14 +20,10 @@
 						"storeSettings": {
 							"type": "SftpReadSettings",
 							"recursive": true,
-							"deleteFilesAfterCompletion": false,
 							"disableChunking": false
 						},
 						"formatSettings": {
-							"type": "BinaryReadSettings",
-							"compressionProperties": {
-								"type": "ZipDeflateReadSettings"
-							}
+							"type": "BinaryReadSettings"
 						}
 					},
 					"sink": {
@@ -40,13 +36,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "CANNON_SOURCE_ZIP_FILES",
+						"referenceName": "canon_dataset",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "CANON_DESTINATION",
+						"referenceName": "canon_destination",
 						"type": "DatasetReference"
 					}
 				]
