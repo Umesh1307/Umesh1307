@@ -10,11 +10,12 @@
 		"typeProperties": {
 			"location": {
 				"type": "SftpLocation",
-				"fileName": "knn.zip",
+				"fileName": "stt_sample_files.zip",
 				"folderPath": "/CANON/DEV"
 			},
 			"compression": {
-				"type": "ZipDeflate"
+				"type": "ZipDeflate",
+				"level": "Fastest"
 			}
 		}
 	}
