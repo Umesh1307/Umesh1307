@@ -1,0 +1,18 @@
+{
+	"name": "DataSource_DataSet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "CANON_SFTP",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "SftpLocation",
+				"fileName": "stt_sample_files.zip",
+				"folderPath": "/CANON/DEV"
+			}
+		}
+	}
+}

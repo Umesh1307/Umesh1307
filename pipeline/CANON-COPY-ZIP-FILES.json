@@ -23,10 +23,7 @@
 							"disableChunking": false
 						},
 						"formatSettings": {
-							"type": "BinaryReadSettings",
-							"compressionProperties": {
-								"type": "ZipDeflateReadSettings"
-							}
+							"type": "BinaryReadSettings"
 						}
 					},
 					"sink": {
@@ -36,7 +33,19 @@
 						}
 					},
 					"enableStaging": false
-				}
+				},
+				"inputs": [
+					{
+						"referenceName": "DataSource_DataSet",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "Destination_DataSet",
+						"type": "DatasetReference"
+					}
+				]
 			}
 		],
 		"annotations": [],
