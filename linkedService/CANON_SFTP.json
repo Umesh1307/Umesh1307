@@ -2,9 +2,7 @@
 	"name": "CANON_SFTP",
 	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
-		"annotations": [
-			"SFTP_KEY"
-		],
+		"annotations": [],
 		"type": "Sftp",
 		"typeProperties": {
 			"host": "ftp.usa.hp.com",
