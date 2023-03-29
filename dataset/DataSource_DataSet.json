@@ -12,6 +12,9 @@
 				"type": "SftpLocation",
 				"fileName": "stt_sample_files.zip",
 				"folderPath": "/CANON/DEV"
+			},
+			"compression": {
+				"type": "ZipDeflate"
 			}
 		}
 	}
